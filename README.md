@@ -7,7 +7,7 @@ KabaadSetu is a vernacular, low-literacy, mobile-first web platform connecting i
 
 ## 🚀 Quick Start & How to Run
 
-Open **[https://kabaadsetu.onrender.com](http://kabaadseu.onrender.com)** in any modern web browser (Google Chrome, Edge, Safari, or mobile browser).
+Open **[https://kabaadsetu.onrender.com](http://kabaadsetu.onrender.com)** in any modern web browser (Google Chrome, Edge, Safari, or mobile browser).
 
 ## 🌟 Key Features & Implementation Highlights
 
