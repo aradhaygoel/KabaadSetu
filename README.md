@@ -7,22 +7,7 @@ KabaadSetu is a vernacular, low-literacy, mobile-first web platform connecting i
 
 ## 🚀 Quick Start & How to Run
 
-### 1. Requirements
-- Python 3.10+
-- Installed packages: `fastapi`, `uvicorn`, `python-multipart`
-
-### 2. Start the Application Server
-```bash
-python run_server.py
-```
-Open **[http://localhost:8000](http://localhost:8000)** in any modern web browser (Google Chrome, Edge, Safari, or mobile browser).
-
-### 3. Run Automated End-to-End Verification Test
-```bash
-python test_flow.py
-```
-
----
+Open **[https://kabaadsetu.onrender.com](http://kabaadseu.onrender.com)** in any modern web browser (Google Chrome, Edge, Safari, or mobile browser).
 
 ## 🌟 Key Features & Implementation Highlights
 
